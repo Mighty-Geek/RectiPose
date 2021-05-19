@@ -1,7 +1,6 @@
 import { wait } from './utils.js';
 
-// const proxy = 'https://thingproxy.freeboard.io/fetch/';
-const proxy = 'https://git.heroku.com/tranquil-waters-17051.git';
+const proxy = 'https://thingproxy.freeboard.io/fetch/';
 const endpoint = 'https://raw.githubusercontent.com/rebeccaestes/yoga_api/master/yoga_api.json';
 const form = document.querySelector('form.search');
 const posesGrid = document.querySelector('.wrapper .poses');
