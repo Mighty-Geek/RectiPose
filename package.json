@@ -1,0 +1,22 @@
+{
+  "name": "rectipose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "postprocessing": "^6.20.3",
+    "text-to-speech-js": "^1.1.10",
+    "three": "^0.126.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "nodemon": "^1.18.3"
+  },
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\" ",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
