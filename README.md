@@ -9,7 +9,7 @@ RectiPose is a web app to help novice yoga learners to get started with yoga. Th
 |-------|-----------------|
 |1.|HTML/CSS|
 |2.|JavaScript|
-|4.|ml5.js library|
+|3.|ml5.js library|
 
 ### Future scope
 - More yoga poses for real-time estimation can be added (As currently the project calibrates only one yoga posture i.e. ustrasana).
